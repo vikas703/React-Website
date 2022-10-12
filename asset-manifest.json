@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.801a36df.css",
+    "main.js": "/React-Website/static/js/main.daec4f16.js",
+    "static/js/787.e403dcb9.chunk.js": "/React-Website/static/js/787.e403dcb9.chunk.js",
+    "static/media/Frontend.pdf": "/React-Website/static/media/Frontend.044669ef760611accf40.pdf",
+    "static/media/java-Certificate.pdf": "/React-Website/static/media/java-Certificate.83088a30e1620caca706.pdf",
+    "static/media/sql-certificate.pdf": "/React-Website/static/media/sql-certificate.12d250c297dafaedac69.pdf",
+    "static/media/Store.png": "/React-Website/static/media/Store.30d934eb8fca0e4411b7.png",
+    "static/media/Vikas-Resume.pdf": "/React-Website/static/media/Vikas-Resume.eb25ce3a41da849572bc.pdf",
+    "static/media/vikas.jpeg": "/React-Website/static/media/vikas.b27086d06db2414abb31.jpeg",
+    "static/media/Background.jpg": "/React-Website/static/media/Background.794afdc660a173d089f8.jpg",
+    "static/media/Frontend.jpg": "/React-Website/static/media/Frontend.01fed05ff72ef1e78aed.jpg",
+    "static/media/Fetch.jpeg": "/React-Website/static/media/Fetch.dee6a1959ac104ac33c4.jpeg",
+    "static/media/Java2.png": "/React-Website/static/media/Java2.39770df150b98ed9e2ed.png",
+    "static/media/image-search.webp": "/React-Website/static/media/image-search.f444cf9bf7dd627406db.webp",
+    "index.html": "/React-Website/index.html",
+    "main.801a36df.css.map": "/React-Website/static/css/main.801a36df.css.map",
+    "main.daec4f16.js.map": "/React-Website/static/js/main.daec4f16.js.map",
+    "787.e403dcb9.chunk.js.map": "/React-Website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801a36df.css",
+    "static/js/main.daec4f16.js"
+  ]
+}
