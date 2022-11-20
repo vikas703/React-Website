@@ -1,8 +1,9 @@
 import React from 'react'
 import './Portfolio.css';
-import Seach from '../../assets/image-search.webp';
 import Fetch from '../../assets/Fetch.jpeg';
 import Store from '../../assets/Store.png';
+import Admin from '../../assets/admin.JPG';
+
 
 
 
@@ -15,11 +16,12 @@ const Portfolio = () => {
     <div className='container portfolio__container'>
       <article className='portfolio__item'>
       <div className='portfolio__item-image'>
-      <img src={Seach} alt='img-here'></img>
+      <img src={Admin} alt='img-here'></img>
       </div>
-      <h3>Image-Search-Engine-Python</h3>
+      <h3>Admin-Dashboard</h3>
       <div className='portfolio__item-cta'>
       <a href='https://github.com/vikas703/Image-Search-Engine' className='btn' target='_blank'>Github</a>
+      <a href='https://vikas703.github.io/Admin-Dash/' className='btn btn-primary' target='_blank'>Live-Demo</a>
       </div>
       </article>
 
@@ -44,6 +46,8 @@ const Portfolio = () => {
       <a href='http://vikas703.github.io/Stores-Recipes' className='btn btn-primary' target='_blank'>Live-Demo</a>
       </div>
       </article>
+
+      
       
     </div>
     
