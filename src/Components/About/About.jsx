@@ -35,6 +35,7 @@ const About = () => {
     </article>
 
     </div>
+    <div className='about_text'>
     <p>
         Successfully completed Internship at Cognizant on practical
         training of Java Full Stack. Assisted and trained by the senior
@@ -46,6 +47,7 @@ const About = () => {
         developing a software but developing it efficiently.
 
     </p>
+    </div> 
 
     </div>
     </div>

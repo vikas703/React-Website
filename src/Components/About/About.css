@@ -64,6 +64,13 @@
     color: var(--color-ligth);
 }
 
+.about_text{
+    color: rgba(255,255,255,0.6);
+    display: flex;
+    text-align: justify;
+}
+
+
 /* --------Media (medium devices)----- */
 
 @media screen and (max-width : 1024px) {
@@ -83,6 +90,7 @@
   /* --------Media (Small devices)----- */
 
 @media screen and (max-width : 600px) {
+    
     .about__me{
         width: 65%;
         margin: 0 auto 3rem;

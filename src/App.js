@@ -4,7 +4,6 @@ import About from './Components/About/About';
 import Experience from './Components/Experience/Experience';
 import Header from './Components/Header/Header';
 import Nav from './Components/Nav/Nav';
-//import Services from './Components/Services/Services';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Certificates from './Components/Certificates/Certificates';
 import Footer from './Components/Footer/Footer';
