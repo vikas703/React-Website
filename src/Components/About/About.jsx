@@ -31,7 +31,7 @@ const About = () => {
     <article className='about__card'>
     <AiFillProject className='about__icon'/>
     <h5>Projects</h5>
-    <small>3</small>
+    <small>6</small>
     </article>
 
     </div>
